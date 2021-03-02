@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="narcocraft"
+version="0.1.2"
+displayName="NarcoCraft"
+credits="Repo: https://github.com/fractadev/-NarcoCraft"
+displayURL="https://github.com/fractadev/"
+authors="fractadev"
+description='''
+Bienvenue dans NarcoWorld, devient un baron de la drogue, mais dans minecraft !
+'''
+
+[[dependencies.narcocraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

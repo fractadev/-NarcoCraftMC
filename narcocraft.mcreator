@@ -1,0 +1,28 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "narcocraft",
+    "modName": "NarcoCraft",
+    "version": "0.1.2",
+    "description": "Bienvenue dans NarcoWorld, devient un baron de la drogue, mais dans minecraft !",
+    "author": "fractadev",
+    "websiteURL": "https://github.com/fractadev/",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Repo: https://github.com/fractadev/-NarcoCraft",
+    "modElementsPackage": "net.fractadev.narcocraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
